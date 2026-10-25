@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" font-family="-apple-system,Helvetica,Arial,sans-serif">
+<rect width="800" height="250" rx="12" fill="#faf9f5"/>
+<text x="400" y="36" text-anchor="middle" font-size="22" font-weight="700" fill="#1f1e1d">Five audiences to rehearse against</text>
+<g fill="#1f1e1d" text-anchor="middle" font-size="13">
+<rect x="20" y="60" width="144" height="150" rx="10" fill="#e8f0fe" stroke="#4a78d0"/>
+<text x="92" y="88" font-weight="700" font-size="15">Technical</text>
+<text x="92" y="118">How does it work?</text><text x="92" y="140">How does it fail?</text><text x="92" y="162">Numbers, trade-offs</text>
+<rect x="172" y="60" width="144" height="150" rx="10" fill="#fdf0e3" stroke="#d98a3d"/>
+<text x="244" y="88" font-weight="700" font-size="15">Business</text>
+<text x="244" y="118">Cost and timeline?</text><text x="244" y="140">Risk, customer impact</text><text x="244" y="162">What do I decide?</text>
+<rect x="324" y="60" width="144" height="150" rx="10" fill="#e6f4ea" stroke="#4c9a63"/>
+<text x="396" y="88" font-weight="700" font-size="15">Sponsors</text>
+<text x="396" y="118">What did we get</text><text x="396" y="140">for the money?</text><text x="396" y="162">Can I trust it?</text>
+<rect x="476" y="60" width="144" height="150" rx="10" fill="#f3e8fd" stroke="#8a5cc0"/>
+<text x="548" y="88" font-weight="700" font-size="15">Admin / ops</text>
+<text x="548" y="118">What changes</text><text x="548" y="140">in my day?</text><text x="548" y="162">Easier or harder?</text>
+<rect x="628" y="60" width="144" height="150" rx="10" fill="#fde8e8" stroke="#c75a5a"/>
+<text x="700" y="88" font-weight="700" font-size="15">Executives</text>
+<text x="700" y="118">So what?</text><text x="700" y="140">Answer first.</text><text x="700" y="162">What's the ask?</text>
+</g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" font-family="-apple-system,Helvetica,Arial,sans-serif">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6b6a66"/></marker></defs>
+<rect width="800" height="220" rx="12" fill="#faf9f5"/>
+<text x="400" y="36" text-anchor="middle" font-size="22" font-weight="700" fill="#1f1e1d">The protocol</text>
+<g fill="#1f1e1d" font-size="14" text-anchor="middle">
+<rect x="30" y="60" width="220" height="120" rx="10" fill="#e8f0fe" stroke="#4a78d0"/>
+<text x="140" y="88" font-weight="700" font-size="16">1. Look before you opine</text>
+<text x="140" y="116">Read the file or notes</text>
+<text x="140" y="138">they point to first.</text>
+<text x="140" y="160">Nothing else.</text>
+<rect x="290" y="60" width="220" height="120" rx="10" fill="#fdf0e3" stroke="#d98a3d"/>
+<text x="400" y="88" font-weight="700" font-size="16">2. Stay inside the problem</text>
+<text x="400" y="116">Label extras, park ideas,</text>
+<text x="400" y="138">top 2-3 risks only,</text>
+<text x="400" y="160">don't reopen decisions.</text>
+<rect x="550" y="60" width="220" height="120" rx="10" fill="#e6f4ea" stroke="#4c9a63"/>
+<text x="660" y="88" font-weight="700" font-size="16">3. Be straight</text>
+<text x="660" y="116">Lead with what matters.</text>
+<text x="660" y="138">Earned praise only.</text>
+<text x="660" y="160">Change view on new info.</text>
+</g>
+<path d="M252 120 H288" stroke="#6b6a66" stroke-width="2" marker-end="url(#a)"/>
+<path d="M512 120 H548" stroke="#6b6a66" stroke-width="2" marker-end="url(#a)"/>
+</svg>

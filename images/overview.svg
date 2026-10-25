@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" font-family="-apple-system,Helvetica,Arial,sans-serif">
+<rect width="800" height="280" rx="12" fill="#faf9f5"/>
+<text x="400" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#1f1e1d">thinking-partner: three jobs</text>
+<g font-size="15" fill="#1f1e1d">
+<rect x="30" y="64" width="230" height="170" rx="10" fill="#e8f0fe" stroke="#4a78d0"/>
+<text x="145" y="96" text-anchor="middle" font-weight="700" font-size="17">Think it through</text>
+<text x="145" y="128" text-anchor="middle">Bounce ideas around</text>
+<text x="145" y="152" text-anchor="middle">Pressure-test the plan</text>
+<text x="145" y="176" text-anchor="middle">Surface top 2-3 risks</text>
+<text x="145" y="200" text-anchor="middle">and blind spots</text>
+<rect x="285" y="64" width="230" height="170" rx="10" fill="#fdf0e3" stroke="#d98a3d"/>
+<text x="400" y="96" text-anchor="middle" font-weight="700" font-size="17">Prep a meeting</text>
+<text x="400" y="128" text-anchor="middle">Who is on the other side?</text>
+<text x="400" y="152" text-anchor="middle">What does a good</text>
+<text x="400" y="176" text-anchor="middle">outcome look like?</text>
+<text x="400" y="200" text-anchor="middle">Work backward from it</text>
+<rect x="540" y="64" width="230" height="170" rx="10" fill="#e6f4ea" stroke="#4c9a63"/>
+<text x="655" y="96" text-anchor="middle" font-weight="700" font-size="17">Rehearse</text>
+<text x="655" y="128" text-anchor="middle">Pick an audience</text>
+<text x="655" y="152" text-anchor="middle">Share your key points</text>
+<text x="655" y="176" text-anchor="middle">It plays the audience</text>
+<text x="655" y="200" text-anchor="middle">until you say stop</text>
+</g>
+<text x="400" y="264" text-anchor="middle" font-size="13" fill="#6b6a66">For the work, not the person. The decisions are yours.</text>
+</svg>
