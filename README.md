@@ -60,3 +60,15 @@ thinking-partner/
 ### Customizing
 
 Edit `thinking-partner/preferences.md` to tune the style. It's read first and takes priority over the defaults. The current preferences: short and to the point, no praise unless asked, ask rather than assume, and prefer the simplest technical solution that works.
+
+
+### Accessing claude session traces
+
+All traces related to a particular project can be found at ~/.claude/projects . So
+```
+
+cd ~/.claude/projects/<project_name>
+ls    Shows .jsonl and memory
+cat <abc>.jsonl
+
+```
