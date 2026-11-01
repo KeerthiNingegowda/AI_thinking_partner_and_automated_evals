@@ -24,10 +24,10 @@ More detail: [behaviour, out-of-scope limits, audiences, repo layout and customi
 
 ## Eval harness
 
-Run the skill in real Claude Code sessions, read the session traces (JSONL), and score each one against a threat-model matrix. Every check maps to the part of the skill to change if it fails.
+Run the skill in real Claude Code sessions, read the session traces (JSONL), and score each one against an eval matrix. Every check maps to the part of the skill to change if it fails.
 
 - Three use cases: brainstorming, meeting prep, presentation prep, plus guardrail, triggering and voice checks.
-- Full matrix, observed-not-scored items, parked items and pending changes: [evals/threat-model.md](evals/threat-model.md).
+- Full matrix, observed-not-scored items, parked items and pending changes: [evals/eval-plan.md](evals/eval-plan.md).
 - Voice: input via `/voice`, spoken output via macOS `say`. Transcription accuracy is observed, not scored.
 
 ### Accessing claude session traces

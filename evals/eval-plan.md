@@ -1,4 +1,4 @@
-# Threat model: thinking-partner
+# Eval plan: thinking-partner
 
 Three use cases: brainstorming, meeting prep, presentation prep. Audience archetypes are a parameter on the meeting and presentation cases, not a use case of their own.
 
