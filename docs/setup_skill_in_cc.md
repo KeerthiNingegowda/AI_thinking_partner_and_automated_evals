@@ -19,3 +19,16 @@ To check if the changes went through type
 It should render the description of the skill itself like the image below
 
 <img src="../images/skill_available_check.png"> 
+
+## Some important commands to use in CC
+
+Use ``` /clear ``` to clear the chat history and start a new session
+
+### Accessing claude session traces
+
+All traces related to a particular project can be found at ~/.claude/projects . So
+```
+cd ~/.claude/projects/<project_name>
+ls    Shows .jsonl and memory
+cat <abc>.jsonl
+```
