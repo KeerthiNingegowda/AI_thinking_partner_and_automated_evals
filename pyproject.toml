@@ -1,0 +1,11 @@
+[project]
+name = "ai-thinking-partner-and-automated-evals"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "claude-code-transcripts>=0.6",
+    "duckdb>=2.0.0",
+    "pandas>=3.1.0",
+]
